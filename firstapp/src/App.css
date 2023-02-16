@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  /* background-image: url("logo.svg");
+  height: 100vh;
+  background-size: 10%;
+  background-repeat:repeat; */
+}
+
+.custom_style{
+  text-align: center;
+}
+
+.custom_img{
+  width: 20%;
+}
