@@ -9,6 +9,7 @@ function App() {
   let inc = 8;
   let inc2 = -3;
   let inc3 = 17;
+  
   return (
     <div className="App">
       <Button startVal = {start} increment = {inc} />
