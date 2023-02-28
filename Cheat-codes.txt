@@ -1,6 +1,7 @@
 npm install -g create-react-app
 create-react-app name-app
 cd name-app
+npm install react-router react-router-dom --save (писати у папці ПРОЄКТУ)
 npm start
     Starts the development server.
   npm run build
