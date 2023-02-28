@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Artist from './Components/artist';
-import {BrowserRouter as Router, Route, Routes, Link, useParams, Navigate, useNavigate} from 'react-router-dom'
+import Main from './Components/main';
 
 function App() {
   return (
     <div className="App">
+      <Main></Main>
     </div>
   );
 }
